@@ -263,7 +263,7 @@ export const palette: Palette = {
 
 ## Contributing
 
-Bug reports and pull requests are welcome on the [GitHub repository](https://github.com/malekula/malekula).
+Bug reports and pull requests are welcome on the [GitHub repository](https://github.com/chipslays/malekula).
 
 ## License
 
