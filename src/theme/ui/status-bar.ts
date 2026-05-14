@@ -1,4 +1,5 @@
 import type { Theme } from '@/types';
+import color from '@/utils/color';
 
 /** @see https://code.visualstudio.com/api/references/theme-color */
 export const statusBar = (theme: Theme) => ({
@@ -21,17 +22,17 @@ export const statusBar = (theme: Theme) => ({
   /**
    * Status Bar background color when a program is being debugged.
    */
-  'statusBar.debuggingBackground': theme.ui['statusBar.debuggingBackground'] ?? theme.palette.state.warning.bg,
+  'statusBar.debuggingBackground': theme.ui['statusBar.debuggingBackground'] ?? theme.colors.orange,
 
   /**
    * Status Bar foreground color when a program is being debugged.
    */
-  'statusBar.debuggingForeground': theme.ui['statusBar.debuggingForeground'] ?? theme.palette.state.warning.fg,
+  'statusBar.debuggingForeground': theme.ui['statusBar.debuggingForeground'] ?? color.contrast(theme.colors.orange),
 
   /**
    * Status Bar border color separating the Status Bar and editor when a program is being debugged.
    */
-  'statusBar.debuggingBorder': theme.ui['statusBar.debuggingBorder'] ?? theme.palette.state.warning.border,
+  'statusBar.debuggingBorder': theme.ui['statusBar.debuggingBorder'] ?? theme.colors.orange,
 
   /**
    * Status Bar foreground color when no folder is opened.

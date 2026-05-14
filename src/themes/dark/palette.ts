@@ -12,7 +12,7 @@ export function createPalette(colors: Colors): Palette {
             workbenchSticky: colors.background[350],
             editor: colors.background[300],
             editorSticky: colors.background[300],
-            raised: colors.background[200],
+            raised: colors.background[100],
             overlay: colors.background[350],
 
             hover: color.alpha(colors.foreground[50], 0.06),

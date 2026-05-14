@@ -16,7 +16,7 @@ export const palette: Palette = {
         workbenchSticky: flat,
         editor: flat,
         editorSticky: flat,
-        raised: colors.background[100],
+        raised: colors.background[200],
         overlay: colors.background[350],
     },
 

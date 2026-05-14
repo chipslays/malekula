@@ -6,7 +6,7 @@ export const debug = (theme: Theme) => ({
   /**
    * Debug toolbar background color.
    */
-  'debugToolBar.background': theme.ui['debugToolBar.background'] ?? theme.palette.bg.overlay,
+  'debugToolBar.background': theme.ui['debugToolBar.background'] ?? theme.palette.bg.raised,
 
   /**
    * Debug toolbar border color.

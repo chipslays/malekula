@@ -1,7 +1,7 @@
 {
   "name": "malekula",
   "displayName": "Malekula",
-  "description": "A carefully crafted collection of dark, light and warm color themes for Visual Studio Code.",
+  "description": "A carefully crafted collection of dark, light and warm color themes for Visual Studio Code inspired by the Atom One Dark theme",
   "version": "1.0.1",
   "publisher": "nemalekula",
   "license": "MIT",

@@ -3,7 +3,7 @@ export type Theme = {
   file: string;
   type: 'dark' | 'light';
   colors: Colors;
-  palette: any;
+  palette: Palette;
   ui: any;
 };
 
