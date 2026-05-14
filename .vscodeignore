@@ -1,0 +1,11 @@
+# Exclude source TypeScript files — only ship the generated JSON themes
+src/
+scripts/
+tsconfig.json
+bun.lock
+bun.lockb
+node_modules/
+.vscode/
+*.ts
+*.md
+!README.md

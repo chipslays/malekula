@@ -1,0 +1,118 @@
+{
+  "name": "malekula",
+  "displayName": "Malekula",
+  "description": "A carefully crafted collection of dark, light and warm color themes for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "malekula",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chipslays/malekula"
+  },
+  "bugs": {
+    "url": "https://github.com/chipslays/malekula/issues"
+  },
+  "homepage": "https://github.com/chipslays/malekula#readme",
+  "galleryBanner": {
+    "color": "#23272F",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "atom one dark",
+    "atom one light",
+    "one dark",
+    "one light",
+    "atom",
+    "molekula",
+    "pastel",
+    "solarized",
+    "catppuccin",
+    "monochrome",
+    "minimal",
+    "dark mode",
+    "syntax theme",
+    "flat ui"
+  ],
+  "module": "index.ts",
+  "type": "module",
+  "private": false,
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "dev": "bun --watch run scripts/generator.ts",
+    "build": "bun run scripts/generator.ts",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/vscode": "^1.118.0",
+    "@vscode/vsce": "^3.9.1"
+  },
+  "peerDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Malekula Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-dark.json"
+      },
+      {
+        "label": "Malekula Dark Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-dark-flat.json"
+      },
+      {
+        "label": "Malekula Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-darker.json"
+      },
+      {
+        "label": "Malekula Darker Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-darker-flat.json"
+      },
+      {
+        "label": "Malekula Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-black.json"
+      },
+      {
+        "label": "Malekula Black Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malekula-black-flat.json"
+      },
+      {
+        "label": "Malekula Light",
+        "uiTheme": "vs",
+        "path": "./themes/malekula-light.json"
+      },
+      {
+        "label": "Malekula Light Flat",
+        "uiTheme": "vs",
+        "path": "./themes/malekula-light-flat.json"
+      },
+      {
+        "label": "Malekula Warm",
+        "uiTheme": "vs",
+        "path": "./themes/malekula-warm.json"
+      },
+      {
+        "label": "Malekula Warm Flat",
+        "uiTheme": "vs",
+        "path": "./themes/malekula-warm-flat.json"
+      }
+    ]
+  }
+}
