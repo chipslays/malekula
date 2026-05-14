@@ -1,10 +1,10 @@
-import { palette as dark } from '@/themes/dark/palette';
+import { createPalette } from '@/themes/dark/palette';
 import { colors } from '@/themes/darker/colors';
 import type { Palette } from '@/types';
 import color from '@/utils/color';
 
 export const palette: Palette = {
-    ...dark,
+    ...createPalette(colors),
 
     bg: {
         base: colors.background[400],

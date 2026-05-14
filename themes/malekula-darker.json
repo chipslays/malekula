@@ -77,9 +77,9 @@
     "inputValidation.warningForeground": "#D19A66",
     "inputValidation.warningBorder": "#D19A66",
     "scrollbar.shadow": "#0000004d",
-    "scrollbarSlider.activeBackground": "#B9C0CC1a",
-    "scrollbarSlider.background": "#B9C0CC1a",
-    "scrollbarSlider.hoverBackground": "#B9C0CC1a",
+    "scrollbarSlider.activeBackground": "#A7ABB31a",
+    "scrollbarSlider.background": "#A7ABB31a",
+    "scrollbarSlider.hoverBackground": "#A7ABB31a",
     "badge.foreground": "#000000",
     "badge.background": "#6CB6FF",
     "progressBar.background": "#6CB6FF",
@@ -160,9 +160,9 @@
     "minimap.foregroundOpacity": "#000000ff",
     "minimap.infoHighlight": "#6CB6FF",
     "minimap.chatEditHighlight": "#6CB6FF",
-    "minimapSlider.background": "#B9C0CC1a",
-    "minimapSlider.hoverBackground": "#B9C0CC1a",
-    "minimapSlider.activeBackground": "#B9C0CC1a",
+    "minimapSlider.background": "#A7ABB31a",
+    "minimapSlider.hoverBackground": "#A7ABB31a",
+    "minimapSlider.activeBackground": "#A7ABB31a",
     "minimapGutter.addedBackground": "#98C379",
     "minimapGutter.modifiedBackground": "#6CB6FF",
     "minimapGutter.deletedBackground": "#E06C75",
@@ -456,8 +456,8 @@
     "merge.incomingHeaderBackground": "#98C37924",
     "merge.incomingContentBackground": "#98C37912",
     "merge.border": "#c6cad333",
-    "merge.commonContentBackground": "#cfd2d812",
-    "merge.commonHeaderBackground": "#cfd2d824",
+    "merge.commonContentBackground": "#c6cad312",
+    "merge.commonHeaderBackground": "#c6cad324",
     "editorOverviewRuler.currentContentForeground": "#6CB6FF",
     "editorOverviewRuler.incomingContentForeground": "#98C379",
     "editorOverviewRuler.commonContentForeground": "#6D7178",
@@ -600,7 +600,7 @@
     "terminal.background": "#1E2127",
     "terminal.border": "#c6cad31a",
     "terminal.foreground": "#c6cad3",
-    "terminal.ansiBlack": "#282C34",
+    "terminal.ansiBlack": "#1E2229",
     "terminal.ansiBlue": "#6CB6FF",
     "terminal.ansiBrightBlack": "#636d83",
     "terminal.ansiBrightBlue": "#6CB6FF",
@@ -608,13 +608,13 @@
     "terminal.ansiBrightGreen": "#98C379",
     "terminal.ansiBrightMagenta": "#D08DFF",
     "terminal.ansiBrightRed": "#E06C75",
-    "terminal.ansiBrightWhite": "#E6EAF2",
+    "terminal.ansiBrightWhite": "#b0c6eb",
     "terminal.ansiBrightYellow": "#E5C07B",
     "terminal.ansiCyan": "#61C6D4",
     "terminal.ansiGreen": "#98C379",
     "terminal.ansiMagenta": "#D08DFF",
     "terminal.ansiRed": "#E06C75",
-    "terminal.ansiWhite": "#E6EAF2",
+    "terminal.ansiWhite": "#b0c6eb",
     "terminal.ansiYellow": "#E5C07B",
     "terminal.selectionBackground": "#b0c6eb1a",
     "terminal.inactiveSelectionBackground": "#b0c6eb0d",
@@ -715,10 +715,10 @@
     "walkThrough.embeddedEditorBackground": "#1E2127",
     "walkthrough.stepTitle.foreground": "#c6cad3",
     "gitDecoration.addedResourceForeground": "#98C379",
-    "gitDecoration.modifiedResourceForeground": "#6CB6FF",
+    "gitDecoration.modifiedResourceForeground": "#E5C07B",
     "gitDecoration.deletedResourceForeground": "#E06C75",
     "gitDecoration.renamedResourceForeground": "#E5C07B",
-    "gitDecoration.stageModifiedResourceForeground": "#6CB6FF",
+    "gitDecoration.stageModifiedResourceForeground": "#E5C07B",
     "gitDecoration.stageDeletedResourceForeground": "#E06C75",
     "gitDecoration.untrackedResourceForeground": "#98C379",
     "gitDecoration.ignoredResourceForeground": "#54585F",
@@ -838,9 +838,9 @@
     "notebook.selectedCellBackground": "#b0c6eb1a",
     "notebook.selectedCellBorder": "#c6cad333",
     "notebook.symbolHighlightBackground": "#b0c6eb0d",
-    "notebookScrollbarSlider.activeBackground": "#B9C0CC1a",
-    "notebookScrollbarSlider.background": "#B9C0CC1a",
-    "notebookScrollbarSlider.hoverBackground": "#B9C0CC1a",
+    "notebookScrollbarSlider.activeBackground": "#A7ABB31a",
+    "notebookScrollbarSlider.background": "#A7ABB31a",
+    "notebookScrollbarSlider.hoverBackground": "#A7ABB31a",
     "notebookStatusErrorIcon.foreground": "#E06C75",
     "notebookStatusRunningIcon.foreground": "#6CB6FF",
     "notebookStatusSuccessIcon.foreground": "#98C379",
@@ -894,19 +894,19 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#697180"
+        "foreground": "#6D7178"
       }
     },
     {
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#697180"
+        "foreground": "#6D7178"
       }
     },
     {
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#697180"
+        "foreground": "#6D7178"
       }
     },
     {
@@ -2677,7 +2677,7 @@
     {
       "scope": "beginning.punctuation.definition.list.markdown.xi",
       "settings": {
-        "foreground": "#697180"
+        "foreground": "#6D7178"
       }
     },
     {
@@ -2707,7 +2707,7 @@
     {
       "scope": "punctuation.definition.tag.xi",
       "settings": {
-        "foreground": "#697180"
+        "foreground": "#6D7178"
       }
     },
     {

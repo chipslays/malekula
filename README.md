@@ -1,6 +1,6 @@
 # Malekula
 
-A carefully crafted collection of dark, light and warm color themes for Visual Studio Code.
+A carefully crafted collection of dark, light and warm color themes for Visual Studio Code inspired by the Atom One Dark theme.
 
 ## Variants
 

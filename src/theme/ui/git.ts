@@ -11,7 +11,7 @@ export const git = (theme: Theme) => ({
   /**
    * Color for modified Git resources. Used for file labels and the SCM viewlet.
    */
-  'gitDecoration.modifiedResourceForeground': theme.ui['gitDecoration.modifiedResourceForeground'] ?? theme.colors.blue,
+  'gitDecoration.modifiedResourceForeground': theme.ui['gitDecoration.modifiedResourceForeground'] ?? theme.colors.yellow,
 
   /**
    * Color for deleted Git resources. Used for file labels and the SCM viewlet.
@@ -26,7 +26,7 @@ export const git = (theme: Theme) => ({
   /**
    * Color for staged modifications git decorations.  Used for file labels and the SCM viewlet.
    */
-  'gitDecoration.stageModifiedResourceForeground': theme.ui['gitDecoration.stageModifiedResourceForeground'] ?? theme.colors.blue,
+  'gitDecoration.stageModifiedResourceForeground': theme.ui['gitDecoration.stageModifiedResourceForeground'] ?? theme.colors.yellow,
 
   /**
    * Color for staged deletions git decorations.  Used for file labels and the SCM viewlet.

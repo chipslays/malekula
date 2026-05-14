@@ -2,7 +2,7 @@ import type { Colors } from "@/types";
 
 export const colors: Colors = {
     get accent() {
-        return this.blue;
+        return colors.blue;
     },
 
     background: {
