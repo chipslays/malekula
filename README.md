@@ -6,23 +6,44 @@ A carefully crafted collection of dark, light and warm color themes for Visual S
 
 [![Malekula Dark](/screenshots/dark.png)](/screenshots/dark.png)
 
-[![Malekula Dark Flat](/screenshots/dark-flat.png)](/screenshots/dark-flat.png)
+<details>
+  <summary>👉 Other theme variants</summary>
+  
+  [![Malekula Dark Flat](/screenshots/dark-flat.png)](/screenshots/dark-flat.png)
 
-[![Malekula Darker](/screenshots/darker.png)](/screenshots/darker.png)
+  ---
+  
+  [![Malekula Darker](/screenshots/darker.png)](/screenshots/darker.png)
 
-[![Malekula Darker Flat](/screenshots/darker-flat.png)](/screenshots/darker-flat.png)
+  ---
+  
+  [![Malekula Darker Flat](/screenshots/darker-flat.png)](/screenshots/darker-flat.png)
 
-[![Malekula Black](/screenshots/black.png)](/screenshots/black.png)
+  ---
+  
+  [![Malekula Black](/screenshots/black.png)](/screenshots/black.png)
 
-[![Malekula Black Flat](/screenshots/black-flat.png)](/screenshots/black-flat.png)
+  ---
+  
+  [![Malekula Black Flat](/screenshots/black-flat.png)](/screenshots/black-flat.png)
 
-[![Malekula Light](/screenshots/light.png)](/screenshots/light.png)
+  ---
+  
+  [![Malekula Light](/screenshots/light.png)](/screenshots/light.png)
 
-[![Malekula Light Flat](/screenshots/light-flat.png)](/screenshots/light-flat.png)
+  ---
+  
+  [![Malekula Light Flat](/screenshots/light-flat.png)](/screenshots/light-flat.png)
 
-[![Malekula Warm](/screenshots/warm.png)](/screenshots/warm.png)
+  ---
+  
+  [![Malekula Warm](/screenshots/warm.png)](/screenshots/warm.png)
 
-[![Malekula Warm Flat](/screenshots/warm-flat.png)](/screenshots/warm-flat.png)
+  ---
+  
+  [![Malekula Warm Flat](/screenshots/warm-flat.png)](/screenshots/warm-flat.png)
+  
+</details>
 
 ## Variants
 
