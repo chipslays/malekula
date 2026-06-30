@@ -1,6 +1,24 @@
-# Malekula
+<h1 align="center">
+  Malekula 🧬
+</h1>
 
-A carefully crafted collection of dark, light and warm color themes for Visual Studio Code inspired by the Atom One Dark theme.
+<p align="center">
+  A carefully crafted collection of dark, light and warm color themes for Visual Studio Code inspired by the Atom One Dark theme.
+</p>
+
+<div align="center">
+
+[![GitHub License](https://img.shields.io/github/license/chipslays/malekula?style=for-the-badge&color=24292e)](LICENSE)
+
+[![GitHub Release](https://img.shields.io/github/v/release/chipslays/malekula?style=for-the-badge&logo=github&color=24292e)](https://github.com/chipslays/malekula/releases)
+
+[![GitHub Stars](https://img.shields.io/github/stars/chipslays/malekula?style=for-the-badge&logo=github&color=24292e)](https://github.com/chipslays/malekula/stargazers)
+
+[![GitHub Issues](https://img.shields.io/github/issues/chipslays/malekula?style=for-the-badge&logo=github&color=d73a49)](https://github.com/chipslays/malekula/issues)
+
+</div>
+
+---
 
 ## Screenshots
 
@@ -8,41 +26,41 @@ A carefully crafted collection of dark, light and warm color themes for Visual S
 
 <details>
   <summary>👉 Other theme variants</summary>
-  
+
   [![Malekula Dark Flat](/screenshots/dark-flat.png)](/screenshots/dark-flat.png)
 
   ---
-  
+
   [![Malekula Darker](/screenshots/darker.png)](/screenshots/darker.png)
 
   ---
-  
+
   [![Malekula Darker Flat](/screenshots/darker-flat.png)](/screenshots/darker-flat.png)
 
   ---
-  
+
   [![Malekula Black](/screenshots/black.png)](/screenshots/black.png)
 
   ---
-  
+
   [![Malekula Black Flat](/screenshots/black-flat.png)](/screenshots/black-flat.png)
 
   ---
-  
+
   [![Malekula Light](/screenshots/light.png)](/screenshots/light.png)
 
   ---
-  
+
   [![Malekula Light Flat](/screenshots/light-flat.png)](/screenshots/light-flat.png)
 
   ---
-  
+
   [![Malekula Warm](/screenshots/warm.png)](/screenshots/warm.png)
 
   ---
-  
+
   [![Malekula Warm Flat](/screenshots/warm-flat.png)](/screenshots/warm-flat.png)
-  
+
 </details>
 
 ## Variants
@@ -288,4 +306,4 @@ Bug reports and pull requests are welcome on the [GitHub repository](https://git
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
