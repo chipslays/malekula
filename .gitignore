@@ -35,4 +35,3 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 scripts/ui-mapping.ts
 scripts/parser.ts
-*.vsix
