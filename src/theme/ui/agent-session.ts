@@ -21,7 +21,7 @@ export const agentSession = (theme: Theme) => ({
   /**
    * Background color of the agent status indicator in the titlebar.
    */
-  'agentStatusIndicator.background': theme.ui['agentStatusIndicator.background'] ?? theme.palette.ctrl.primary.bg,
+  'agentStatusIndicator.background': theme.ui['agentStatusIndicator.background'] ?? theme.palette.bg.workbench,
 
   /**
    * The color of the Chat Customization Management editor splitview sash border.

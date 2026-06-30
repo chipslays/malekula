@@ -47,22 +47,22 @@ export function createPalette(colors: Colors): Palette {
         state: {
             error: {
                 fg: colors.red,
-                bg: color.alpha(colors.red, 0.12),
+                bg: color.mix(colors.red, '#000000', 0.3),
                 border: colors.red,
             },
             warning: {
                 fg: colors.orange,
-                bg: color.alpha(colors.orange, 0.12),
+                bg: color.mix(colors.orange, '#000000', 0.3),
                 border: colors.orange,
             },
             success: {
                 fg: colors.green,
-                bg: color.alpha(colors.green, 0.12),
+                bg: color.mix(colors.green, '#000000', 0.3),
                 border: colors.green,
             },
             info: {
                 fg: colors.blue,
-                bg: color.alpha(colors.blue, 0.12),
+                bg: color.mix(colors.blue, '#000000', 0.3),
                 border: colors.blue,
             },
         },

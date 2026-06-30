@@ -42,6 +42,29 @@ export const palette: Palette = {
         placeholder: colors.foreground[200],
     },
 
+    state: {
+        error: {
+            fg: colors.red,
+            bg: color.mix(colors.red, '#000000', 0.3),
+            border: colors.red,
+        },
+        warning: {
+            fg: colors.orange,
+            bg: color.mix(colors.orange, '#000000', 0.3),
+            border: colors.orange,
+        },
+        success: {
+            fg: colors.green,
+            bg: color.mix(colors.green, '#000000', 0.3),
+            border: colors.green,
+        },
+        info: {
+            fg: colors.blue,
+            bg: color.mix(colors.blue, '#000000', 0.3),
+            border: colors.blue,
+        },
+    },
+
     border: {
         faint: color.alpha(colors.foreground[50], 0.10),
         default: color.alpha(colors.foreground[50], 0.20),

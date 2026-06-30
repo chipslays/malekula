@@ -51,7 +51,7 @@ export const menuBar = (theme: Theme) => ({
   /**
    * Border color of menus.
    */
-  'menu.border': theme.ui['menu.border'] ?? theme.palette.border.default,
+  'menu.border': theme.ui['menu.border'] ?? theme.palette.border.window,
 
 });
 

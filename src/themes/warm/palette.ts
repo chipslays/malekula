@@ -46,22 +46,22 @@ export const palette: Palette = {
     state: {
         error: {
             fg: colors.red,
-            bg: color.alpha(colors.red, 0.10),
+            bg: color.mix(colors.red, '#ffffff', 0.3),
             border: colors.red,
         },
         warning: {
             fg: colors.orange,
-            bg: color.alpha(colors.orange, 0.10),
+            bg: color.mix(colors.orange, '#ffffff', 0.3),
             border: colors.orange,
         },
         success: {
             fg: colors.green,
-            bg: color.alpha(colors.green, 0.10),
+            bg: color.mix(colors.green, '#ffffff', 0.3),
             border: colors.green,
         },
         info: {
             fg: colors.blue,
-            bg: color.alpha(colors.blue, 0.10),
+            bg: color.mix(colors.blue, '#ffffff', 0.3),
             border: colors.blue,
         },
     },
