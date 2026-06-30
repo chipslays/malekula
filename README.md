@@ -72,6 +72,7 @@
 | **Malekula Warm** | Regular | Warm |
 | **Malekula Warm Flat** | Flat UI | Warm |
 
+> [!NOTE]
 > **Regular** variants use a multi-level background scale — different surfaces (editor, sidebar, title bar) have distinct background shades.
 > **Flat** variants collapse most surfaces to a single background color for a minimal, distraction-free look.
 
