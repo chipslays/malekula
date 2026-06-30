@@ -2,6 +2,13 @@
 
 All notable changes to the Malekula theme will be documented in this file.
 
+## [1.0.4] — 2026-06-30
+
+### Fixed
+
+- Background color for Command Center
+- Background color for Errors and etc.
+
 ## [1.0.0] — 2026-05-14
 
 ### Added
