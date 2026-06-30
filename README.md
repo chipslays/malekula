@@ -8,13 +8,7 @@
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/chipslays/malekula?style=for-the-badge&color=24292e)](LICENSE)
-
-[![GitHub Release](https://img.shields.io/github/v/release/chipslays/malekula?style=for-the-badge&logo=github&color=24292e)](https://github.com/chipslays/malekula/releases)
-
-[![GitHub Stars](https://img.shields.io/github/stars/chipslays/malekula?style=for-the-badge&logo=github&color=24292e)](https://github.com/chipslays/malekula/stargazers)
-
-[![GitHub Issues](https://img.shields.io/github/issues/chipslays/malekula?style=for-the-badge&logo=github&color=d73a49)](https://github.com/chipslays/malekula/issues)
+[![GitHub License](https://img.shields.io/github/license/chipslays/malekula?style=flat-square&color=24292e)](LICENSE) [![GitHub Release](https://img.shields.io/github/v/release/chipslays/malekula?style=flat-square&logo=github&color=24292e)](https://github.com/chipslays/malekula/releases) [![GitHub Stars](https://img.shields.io/github/stars/chipslays/malekula?style=flat-square&logo=github&color=24292e)](https://github.com/chipslays/malekula/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/chipslays/malekula?style=flat-square&logo=github&color=d73a49)](https://github.com/chipslays/malekula/issues)
 
 </div>
 
